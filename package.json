@@ -1,0 +1,19 @@
+{
+  "name": "jquery.transform-fixed",
+  "version": "1.0.0",
+  "description": "fixed is available even by using a transform",
+  "main": "jquery.transform-fixed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaoyuta/jquery.transform-fixed.git"
+  },
+  "author": "itao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaoyuta/jquery.transform-fixed/issues"
+  },
+  "homepage": "https://github.com/itaoyuta/jquery.transform-fixed#readme"
+}
